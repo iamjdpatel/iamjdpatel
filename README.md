@@ -1,8 +1,8 @@
 ### Hello World...! 👋 Jay is here!
 
-🔭 I’m currently working on iOS with Swift & SwiftUI.
+🔭 4+ years with iOS using Objective-C, Swift & SwiftUI.😋
 
-🌱 I’m currently learning Flutter.
+🌱 Currently learning Flutter.
 
 🤔 I’m looking for help with State Management in Flutter.
 
