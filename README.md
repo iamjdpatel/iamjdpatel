@@ -2,9 +2,9 @@
 
 🔭 5+ years with iOS using Objective-C, Swift & SwiftUI.😋
 
-🌱 Currently learning Flutter.
+🌱 Currently learning to create Swift Package & XCFrameworks.
 
-🤔 I’m looking for help with State Management in Flutter.
+🤔 I’m looking for help to integrate binary target of XCFramework in Swift Package.
 
 💬 Ask me about SwiftUI.
 
