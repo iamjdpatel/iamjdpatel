@@ -2,9 +2,7 @@
 
 🔭 5+ years with iOS using Objective-C, Swift & SwiftUI.😋
 
-🌱 Currently learning to create Swift Package & XCFrameworks.
-
-🤔 I’m looking for help to integrate binary target of XCFramework in Swift Package.
+🌱 Working on creation of Swift Package & XCFrameworks.
 
 💬 Ask me about SwiftUI.
 
