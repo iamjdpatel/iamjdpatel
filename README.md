@@ -3,5 +3,3 @@
 🔭 5+ years with iOS using Objective-C, Swift & SwiftUI 😋
 
 🌱 Creating Swift Package & XCFramework 🙌🏽
-
-⚡ Fun fact: I want to make money while I sleep. 
